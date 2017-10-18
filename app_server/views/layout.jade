@@ -1,0 +1,37 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/bootstrap-3.3.7-dist/css/slate.bootstrap.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    .navbar.navbar-default.navbar-fixed-top
+      .container
+        .navbar-header
+          a.navbar-brand(href='/') Loc
+          button.navbar-toggle(type='button', data-toggle='collapse', data-target='#navbar.main')
+            span.icon-bar
+            span.icon-bar
+        #navbar-main.navbar-collapse.collapse 
+          ul.nav.navbar-nav
+            li
+              a(href='/about/') About
+
+    .container
+      block content
+
+      footer
+        .row
+          .col-xs-12
+            small &copy; Patrick Bontemps 2017
+            
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.src.js"></script>
+
+<!--script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/series-label.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script-->
+
+<script src='/javascripts/main-highcharts-patrick.js'></script>
+  
+
