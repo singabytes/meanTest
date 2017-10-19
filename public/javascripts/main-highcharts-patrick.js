@@ -1,7 +1,7 @@
 
 console.log('toto');
 
-$.get('./javascripts/browserSharing.json' , function(resp) {
+$.get('http://127.0.0.1:3000/api/array1D/test/15' , function(resp) {
 
 console.log(resp);
 
@@ -36,8 +36,8 @@ Highcharts.chart('container', {
     },
 
     series: [{
-        name: 'Installation',
-        data: [43934, 52503, 57177, 69658, 97031, 119931, 137133, 154175]
+        name: resp.name,
+        data: resp.data
     }, {
         name: 'Manufacturing',
         data: [24916, 24064, 29742, 29851, 32490, 30282, 38121, 40434]

@@ -52,4 +52,4 @@ process.on('SIGTERM', function() {
 });
 
 // BRING IN YOUR SCHEMAS & MODELS
-require('./location.js');
+require('./array.js');

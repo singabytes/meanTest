@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-var locationSchema = new mongoose.Schema({
+var array1DSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true
@@ -8,4 +8,4 @@ var locationSchema = new mongoose.Schema({
     data: [Number],
 });
 
-mongoose.model('Location', locationSchema);
+mongoose.model('Array1D', array1DSchema);

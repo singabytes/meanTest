@@ -1,8 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
-var ctrlLocations = require('../controllers/locations');
+var ctrlLocations = require('../controllers/array');
 
-router.get('/locations', ctrlLocations.locationsListByDistance);
+router.get('/array1D/test/:size', ctrlLocations.array1DTest);
 
 module.exports = router;
+
