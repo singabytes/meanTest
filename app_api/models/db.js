@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 var gracefulShutdown;
-var dbURI = 'mongodb://localhost/Loc8r';
+var dbURI = 'mongodb://localhost/myMongoDB';
 
 if (process.env.NODE_ENV === 'production') {
     dbURI = process.env.MONGOLAB_URI;
