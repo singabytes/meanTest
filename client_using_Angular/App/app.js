@@ -1,4 +1,4 @@
-/// <reference path="../Scripts/angular-1.1.4.js" />
+/// <reference path="../Scripts/angular.js" />
 
 /*#######################################################################
 
@@ -22,7 +22,7 @@
           .when('/customers',
               {
                   controller: 'CustomersController',
-                  templateUrl: './partials/customers.html'
+                  templateUrl: 'App/partials/customers.html'
               })
           //Define a route that has a route parameter in it (:customerID)
           //.when('/customerorders/:customerID',
