@@ -1,0 +1,87 @@
+import cv2
+import qrcode
+import hashlib
+import os
+import shutil
+import string
+from qreader import QReader
+
+######
+# Convert frame / qr to document
+# path_root = 'C:\\temp\\' 
+# path_frame_folder = path_root + 'frames\\' - folder with frame
+# filename_video = 'output.mts' - name of the video
+######
+
+qr_path = 'C:\\temp\\frames2encode2\\'
+output_filename = 'C:\\temp\\document55.txt'
+
+document = ''
+previous_check_code = ''
+
+def substitution_decrypt(text, key_lower, key_upper):
+    # Example keys (must be 26 letters each, no repeats)
+    key_lower = "sdfghjqwertyuiopaklzxcvbnm"
+    key_upper = "UIOPALZXCVBNMQWERTYSDFGHJK"
+    # Create reverse translation tables
+    reverse_lower = str.maketrans(key_lower, string.ascii_lowercase)
+    reverse_upper = str.maketrans(key_upper, string.ascii_uppercase)
+    result = ''
+    for char in text:
+        if char.islower():
+            result += char.translate(reverse_lower)
+        elif char.isupper():
+            result += char.translate(reverse_upper)
+        else:
+            result += char  # Leave non-letters unchanged
+    return result
+
+images = [img for img in os.listdir(qr_path) if img.endswith('.png')]
+
+nbframes = len(images)
+print(f'{nbframes} frames detected')
+
+qreader = QReader(model_size='s')
+
+# init
+previous_check_code = 'dummy'
+
+for i in range(0,nbframes): 
+    filename = str(i) + '.png'
+    if os.path.isfile(os.path.join(qr_path, filename)):
+        try:
+            print('Processing file ', filename)
+            img = cv2.imread(os.path.join(qr_path, filename))
+            qreader = QReader()
+            decoded = qreader.detect_and_decode(image=img)
+            print(decoded[0])
+            if decoded[0] == None:
+                continue
+            value = decoded[0].rstrip()
+            checkcode = value
+            if value == '':
+                continue
+            if checkcode != previous_check_code:
+                document = document + substitution_decrypt(value, 'dummy', 'dummy')
+                previous_check_code = checkcode
+            
+            #print(value)
+
+            if (i % 100) == 0:
+                print(f'Frame {i} - max {nbframes}')
+                print(value.encode('utf-8'))
+
+        except Exception as e:
+            print('error ', i)
+            print(e)
+
+print('-- all decoded ---')
+tmp1 = document.replace('!', '\n')
+tmp2 = tmp1.replace('>', ' ')
+print(tmp2)
+
+f = open(output_filename, 'w')
+f.write(tmp2)
+f.close()
+
+print(f'Output document : {output_filename}')
