@@ -1,0 +1,32 @@
+I wrote the 2400-baud version with raw text and no compression. I tested the encoder and decoder through simulated audio (WAV and in-memory), not through a real sound card, so the live --play and --live modes are untested. The test results are below.
+
+What it does
+
+Modulation: 2400 baud at 48 kHz, which is exactly 20 samples per bit. A 1 is 7200 Hz and a 0 is 4800 Hz.
+Frames: each frame carries 200 text bytes, with a header, a CRC16, and 16 Reed-Solomon parity bytes. Reed-Solomon can repair up to 8 corrupted bytes per frame. I wrote it myself, so you don't need to install anything except numpy.
+Per-frame resync: every frame has its own preamble and sync word, so clock drift between the two sound cards can't build up over a long message.
+Receiver: it finds every frame in a recording, reassembles them in order, and tells you which frames are missing, if any.
+Repeat option: --repeat N sends the whole message N times. Since the cable is one-way, this is your fallback if a frame is lost.
+
+Test results (simulated audio)
+
+15,000 characters took 58.2 s, which works out to about 15,400 characters per minute.
+Decoding was perfect with heavy added noise.
+Decoding was perfect with a simulated 100 ppm clock mismatch between sender and receiver.
+Decoding was perfect with a 25 ms dropout in the middle of the audio.
+
+Using it
+
+# PC1 (sender)
+python audiomodem2400.py send @story.txt --play --repeat 2
+
+# PC2 (receiver) - start this first, give it enough seconds
+python audiomodem2400.py recv --live 90
+
+Use --wav instead of --play or --live if you want to record to or read from a file. Both sound cards should be set to 48 kHz. The --live and --play options need pip install sounddevice.
+
+Before the first real run
+
+Start with --amp 0.3 and a low PC1 output volume. Raise the volume until PC2's recording level peaks around 50-70%, without clipping.
+Turn off AGC, noise suppression and any "enhancements" on PC2's microphone input. If the PC has a line-in, use that instead.
+Start the receiver before the sender, and give --live a few seconds more than the expected audio length, since 58 s is the figure for 15,000 characters.

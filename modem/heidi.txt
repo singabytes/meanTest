@@ -1,0 +1,308 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2025-04-11 09:34:29
+LastUsageStatisticCall<|||>1<|||>2025-04-13 15:14:34
+LastSessions<|||>1<|||>azure
+LastActiveSession<|||>1<|||>azure
+SessionManager_WindowWidth<|||>3<|||>1424
+SessionManager_WindowHeight<|||>3<|||>817
+SessionManager_WindowLeft<|||>3<|||>1120
+SessionManager_WindowTop<|||>3<|||>563
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>40,100,154,90,60,65,50,117,130,140,100,100,50,50
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>234,100,80,120,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>196,80,100,80,80,84
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,316
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,316,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,186
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,256
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+GridExportWindowWidth<|||>3<|||>530
+GridExportOutputCopy<|||>3<|||>0
+GridExportOutputFile<|||>3<|||>1
+GridExportFilename<|||>1<|||>C:\Temp\dump.csv
+GridExportRecentFiles<|||>1<|||>C:\Temp\dump.csv
+GridExportNull<|||>1<|||>NA
+MainWinWidth<|||>3<|||>881
+MainWinHeight<|||>3<|||>467
+MainWinLeft<|||>3<|||>330
+MainWinTop<|||>3<|||>63
+sqloutheight<|||>3<|||>472
+FindDialogSearchHistory<|||>1<|||>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}>
+SQLFile0<|||>1<|||>C:\Users\Patrick\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-03-12_14-45-48-659.sql
+SQLFile1<|||>1<|||>C:\Users\Patrick\GitHub\query.sql
+SQLFile2<|||>1<|||>C:\Users\Patrick\GitHub\query2.sql
+SQLFile3<|||>1<|||>C:\Users\Patrick\AppData\Roaming\HeidiSQL\Backups\query-tab-.sql
+Servers\azure\SessionCreated<|||>1<|||>2025-03-12 12:19:44
+Servers\azure\Host<|||>1<|||>127.0.0.1
+Servers\azure\WindowsAuth<|||>3<|||>0
+Servers\azure\CleartextPluginEnabled<|||>3<|||>0
+Servers\azure\User<|||>1<|||>postgres
+Servers\azure\Password<|||>1<|||>78697C776F697B8
+Servers\azure\LoginPrompt<|||>3<|||>0
+Servers\azure\Port<|||>1<|||>5432
+Servers\azure\NetType<|||>3<|||>9
+Servers\azure\Compressed<|||>3<|||>0
+Servers\azure\LocalTimeZone<|||>3<|||>0
+Servers\azure\QueryTimeout<|||>3<|||>30
+Servers\azure\KeepAlive<|||>3<|||>20
+Servers\azure\FullTableStatus<|||>3<|||>1
+Servers\azure\Databases<|||>1<|||>bondap_master
+Servers\azure\Library<|||>1<|||>libpq-17.dll
+Servers\azure\Comment<|||>1<|||>
+Servers\azure\StartupScriptFilename<|||>1<|||>
+Servers\azure\TreeBackground<|||>3<|||>536870911
+Servers\azure\SSHtunnelActive<|||>3<|||>1
+Servers\azure\SshExecutable<|||>1<|||>plink.exe
+Servers\azure\SSHtunnelHost<|||>1<|||>bondap-test.eastus.cloudapp.azure.com
+Servers\azure\SSHtunnelHostPort<|||>3<|||>22
+Servers\azure\SSHtunnelUser<|||>1<|||>singapat
+Servers\azure\SSHtunnelPassword<|||>1<|||>544478736B657734343B787378734
+Servers\azure\SSHtunnelTimeout<|||>3<|||>4
+Servers\azure\SSHtunnelPrivateKey<|||>1<|||>
+Servers\azure\SSHtunnelPort<|||>3<|||>3207
+Servers\azure\SSL_Active<|||>3<|||>0
+Servers\azure\SSL_Key<|||>1<|||>
+Servers\azure\SSL_Cert<|||>1<|||>
+Servers\azure\SSL_CA<|||>1<|||>
+Servers\azure\SSL_Cipher<|||>1<|||>
+Servers\azure\SSL_Verification<|||>3<|||>2
+Servers\azure\IgnoreDatabasePattern<|||>1<|||>^pg_temp_\d
+Servers\azure\LogFileDdl<|||>3<|||>0
+Servers\azure\LogFileDml<|||>3<|||>0
+Servers\azure\LogFilePath<|||>1<|||>C:\Users\Patrick\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\azure\RefusedCount<|||>3<|||>6
+Servers\azure\ServerVersionFull<|||>1<|||>PostgreSQL 16.8 (Ubuntu 16.8-0ubuntu0.24.04.1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, 64-bit
+Servers\azure\ConnectCount<|||>3<|||>14
+Servers\azure\ServerVersion<|||>3<|||>160800
+Servers\azure\LastConnect<|||>1<|||>2025-04-13 16:44:29
+Servers\azure\lastUsedDB<|||>1<|||>
+Servers\azure\FavoriteObjects<|||>1<|||>public|public|finra_prices<{{{><}}}>
+Servers\azure\public|finra_prices\Sort<|||>1<|||>0_timeStamp|
+Servers\azure\QueryHistory\16<|||>1<|||>2025-03-15 21:50:15||235|SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "cusip"='U81522AD3' <{{{><}}}>
+Servers\azure\QueryHistory\15<|||>1<|||>2025-03-15 21:51:12||235|SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-13'<{{{><}}}>
+Servers\azure\QueryHistory\17<|||>1<|||>2025-03-15 21:56:00||219|SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-12'<{{{><}}}>
+Servers\azure\QueryHistory\19<|||>1<|||>2025-03-15 21:56:07||2062|SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}>
+Servers\azure\QueryHistory\18<|||>1<|||>2025-03-16 10:14:09||7796|SELECT * FROM PUBLIC.finra_prices 
+Servers\azure\QueryHistory\5<|||>1<|||>2025-03-16 10:14:50||2078|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-12'
+Servers\azure\QueryHistory\21<|||>1<|||>2025-03-16 10:18:41||250|SELECT COUNT(*) FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14'
+Servers\azure\QueryHistory\24<|||>1<|||>2025-03-16 10:18:54||235|SELECT COUNT(*) FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-15'
+Servers\azure\QueryHistory\25<|||>1<|||>2025-03-16 10:21:17||235|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-15'
+Servers\azure\QueryHistory\22<|||>1<|||>2025-03-16 10:25:45||1610|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14'
+Servers\azure\QueryHistory\23<|||>1<|||>2025-03-16 11:11:02||1844|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-13'
+Servers\azure\QueryHistory\20<|||>1<|||>2025-03-16 11:11:26||234|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-13' AND "cusip" = '817826AD2'
+Servers\azure\QueryHistory\26<|||>1<|||>2025-03-16 11:20:16||218|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-15' AND "cusip" = '817826AD2'
+Servers\azure\QueryHistory\27<|||>1<|||>2025-03-16 11:20:25||235|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' AND "cusip" = '817826AD2'
+Servers\azure\QueryHistory\29<|||>1<|||>2025-03-16 11:50:43||282|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' AND "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'
+Servers\azure\QueryHistory\28<|||>1<|||>2025-03-18 21:47:47|public|9078|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' AND "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>SELECT * FROM PUBLIC.finra_bonds
+Servers\azure\QueryHistory\30<|||>1<|||>2025-03-18 21:48:26|public|234|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-15' --AND "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>---SELECT * FROM PUBLIC.finra_bonds
+Servers\azure\QueryHistory\31<|||>1<|||>2025-03-18 21:48:36|public|1860|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>---SELECT * FROM PUBLIC.finra_bonds
+Servers\azure\QueryHistory\32<|||>1<|||>2025-03-18 21:48:44|public|234|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-16' --AND "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>---SELECT * FROM PUBLIC.finra_bonds
+Servers\azure\QueryHistory\33<|||>1<|||>2025-03-18 21:49:01|public|1625|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-17' --AND "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}><{{{><}}}>---SELECT * FROM PUBLIC.finra_bonds
+Servers\azure\QueryHistory\34<|||>1<|||>2025-03-18 21:51:27|public|1141|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-17' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>SELECT 'cusip' FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\36<|||>1<|||>2025-03-18 21:52:01|public|1406|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-17' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\35<|||>1<|||>2025-03-18 22:33:15|public|1609|SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\37<|||>1<|||>2025-03-18 22:34:44|public|234|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\38<|||>1<|||>2025-03-18 22:36:40|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-17'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\39<|||>1<|||>2025-03-18 22:41:49|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-13'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\40<|||>1<|||>2025-03-18 22:42:00|public|234|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-12'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\41<|||>1<|||>2025-03-22 11:18:28|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-03-21'<{{{><}}}>
+Servers\azure\QueryHistory\43<|||>1<|||>2025-03-22 11:19:14|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}>
+Servers\azure\QueryHistory\42<|||>1<|||>2025-03-22 11:19:33|public|9844|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}>
+Servers\azure\QueryHistory\44<|||>1<|||>2025-03-22 11:20:05|public|219|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>SELECT COUNT(*) FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'
+Servers\azure\QueryHistory\45<|||>1<|||>2025-03-22 11:21:38|public|1390|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>SELECT DISTINCT "cusip" FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'
+Servers\azure\QueryHistory\46<|||>1<|||>2025-03-22 11:21:54|public|250|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'
+Servers\azure\QueryHistory\47<|||>1<|||>2025-03-22 11:23:19|public|5078|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "tradeDate" = '2025-03-20'
+Servers\azure\QueryHistory\48<|||>1<|||>2025-03-22 11:23:55|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-20'
+Servers\azure\QueryHistory\49<|||>1<|||>2025-03-22 11:24:08|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\50<|||>1<|||>2025-03-22 11:24:24|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-03-20'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\52<|||>1<|||>2025-03-22 11:24:59|public|219|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\51<|||>1<|||>2025-03-22 11:25:19|public|4797|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\53<|||>1<|||>2025-03-22 11:26:39|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-19%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\54<|||>1<|||>2025-03-22 11:26:47|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-18%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\55<|||>1<|||>2025-03-22 11:53:43|public|250|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-22%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\57<|||>1<|||>2025-03-22 12:17:41|public|1391|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\56<|||>1<|||>2025-03-22 12:18:44|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\58<|||>1<|||>2025-03-22 12:18:55|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\59<|||>1<|||>2025-03-22 12:19:11|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\60<|||>1<|||>2025-03-22 12:19:18|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\61<|||>1<|||>2025-03-27 23:17:44|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-25'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\63<|||>1<|||>2025-03-27 23:17:54|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-24'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\64<|||>1<|||>2025-03-27 23:23:00|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-26'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\62<|||>1<|||>2025-03-27 23:24:01|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-26%'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\65<|||>1<|||>2025-03-27 23:24:08|public|250|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-27%'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>
+Servers\azure\QueryHistory\66<|||>1<|||>2025-03-27 23:27:50|public|328|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>--SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-27%'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>DELETE FROM PUBLIC.finra_bonds;<{{{><}}}>
+Servers\azure\QueryHistory\67<|||>1<|||>2025-03-27 23:28:31|public|234|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>--SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-27%'<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-24'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>--DELETE FROM PUBLIC.finra_bonds;<{{{><}}}>
+Servers\azure\QueryHistory\68<|||>1<|||>2025-03-27 23:28:46|public|234|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>--SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-27%'<{{{><}}}>--SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-24'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>--DELETE FROM PUBLIC.finra_bonds;<{{{><}}}>
+Servers\azure\QueryHistory\69<|||>1<|||>2025-03-27 23:43:19|public|235|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>--SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-27%'<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-26'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>--DELETE FROM PUBLIC.finra_bonds;<{{{><}}}>
+Servers\azure\QueryHistory\70<|||>1<|||>2025-03-27 23:44:26|public|234|--SELECT * FROM PUBLIC.finra_prices WHERE "tradeDate" = '2025-03-14' --AND "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_prices WHERE "cusip" = '817826AD2'<{{{><}}}>--SELECT * FROM PUBLIC.finra_bonds<{{{><}}}>--SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "timeStamp" like '2025-03-27%'<{{{><}}}>SELECT COUNT(*) FROM PUBLIC.finra_bonds WHERE "lastTradeDate" = '2025-03-25'<{{{><}}}>--SELECT "cusip" FROM PUBLIC.finra_bonds<{{{><}}}><{{{><}}}>--DELETE FROM PUBLIC.finra_bonds;<{{{><}}}>
+Servers\azure\QueryHistory\71<|||>1<|||>2025-04-11 09:35:44|public|250|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-03-19'
+Servers\azure\QueryHistory\73<|||>1<|||>2025-04-11 09:36:51|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\72<|||>1<|||>2025-04-11 09:37:02|public|250|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-21%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\74<|||>1<|||>2025-04-11 09:37:30|public|250|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-04%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\76<|||>1<|||>2025-04-11 09:37:44|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" --WHERE  "lastTradeDate" = '2025-03-19'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\75<|||>1<|||>2025-04-11 11:20:55|public|3672|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-09'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\77<|||>1<|||>2025-04-13 15:17:46|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-12'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\1<|||>1<|||>2025-04-13 15:18:05|public|7375|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\2<|||>1<|||>2025-04-13 15:18:16|public|1844|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-10'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>--SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" --WHERE "lastTradeDate" = '2025-04-04'
+Servers\azure\QueryHistory\3<|||>1<|||>2025-04-13 15:18:35|public|250|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-10'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-04-11'
+Servers\azure\QueryHistory\4<|||>1<|||>2025-04-13 15:18:41|public|235|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-10'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-04-10'
+Servers\azure\QueryHistory\6<|||>1<|||>2025-04-13 15:18:47|public|234|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-10'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-04-09'
+Servers\azure\QueryHistory\7<|||>1<|||>2025-04-13 15:18:53|public|218|--SELECT "cusip", "tradeDate", "tradeYield", "tradePrice", "timeStamp" FROM "public"."finra_prices" WHERE  "tradeDate" = '2025-03-11'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "lastTradeDate" = '2025-04-10'<{{{><}}}><{{{><}}}>--SELECT * FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-04-02%'<{{{><}}}>--DELETE FROM "public"."finra_bonds" WHERE  "timeStamp" like '2025-03-20%'<{{{><}}}><{{{><}}}>SELECT count(DISTINCT "cusip") FROM "public"."finra_bonds" WHERE "lastTradeDate" = '2025-04-08'
+Servers\postgres\SessionCreated<|||>1<|||>2025-02-03 22:28:40
+Servers\postgres\Host<|||>1<|||>127.0.0.1
+Servers\postgres\WindowsAuth<|||>3<|||>0
+Servers\postgres\CleartextPluginEnabled<|||>3<|||>0
+Servers\postgres\User<|||>1<|||>postgres
+Servers\postgres\Password<|||>1<|||>796A7D78706A7C9
+Servers\postgres\LoginPrompt<|||>3<|||>0
+Servers\postgres\Port<|||>1<|||>5432
+Servers\postgres\NetType<|||>3<|||>8
+Servers\postgres\Compressed<|||>3<|||>0
+Servers\postgres\LocalTimeZone<|||>3<|||>0
+Servers\postgres\QueryTimeout<|||>3<|||>30
+Servers\postgres\KeepAlive<|||>3<|||>20
+Servers\postgres\FullTableStatus<|||>3<|||>1
+Servers\postgres\Databases<|||>1<|||>bondap_master
+Servers\postgres\Library<|||>1<|||>libpq-15.dll
+Servers\postgres\Comment<|||>1<|||>
+Servers\postgres\StartupScriptFilename<|||>1<|||>
+Servers\postgres\TreeBackground<|||>3<|||>536870911
+Servers\postgres\SSHtunnelActive<|||>3<|||>0
+Servers\postgres\SshExecutable<|||>1<|||>plink.exe
+Servers\postgres\SSHtunnelHost<|||>1<|||>bondap-test.eastus.cloudapp.azure.com
+Servers\postgres\SSHtunnelHostPort<|||>3<|||>22
+Servers\postgres\SSHtunnelUser<|||>1<|||>singapat
+Servers\postgres\SSHtunnelPassword<|||>1<|||>56467A75676D7936363D7A757A756
+Servers\postgres\SSHtunnelTimeout<|||>3<|||>4
+Servers\postgres\SSHtunnelPrivateKey<|||>1<|||>
+Servers\postgres\SSHtunnelPort<|||>3<|||>22
+Servers\postgres\SSL_Active<|||>3<|||>0
+Servers\postgres\SSL_Key<|||>1<|||>
+Servers\postgres\SSL_Cert<|||>1<|||>
+Servers\postgres\SSL_CA<|||>1<|||>
+Servers\postgres\SSL_Cipher<|||>1<|||>
+Servers\postgres\SSL_Verification<|||>3<|||>2
+Servers\postgres\IgnoreDatabasePattern<|||>1<|||>^pg_temp_\d
+Servers\postgres\LogFileDdl<|||>3<|||>0
+Servers\postgres\LogFileDml<|||>3<|||>0
+Servers\postgres\LogFilePath<|||>1<|||>C:\Users\Patrick\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\postgres\ServerVersionFull<|||>1<|||>PostgreSQL 17.2 on x86_64-windows, compiled by msvc-19.42.34435, 64-bit
+Servers\postgres\ConnectCount<|||>3<|||>9
+Servers\postgres\ServerVersion<|||>3<|||>170200
+Servers\postgres\LastConnect<|||>1<|||>2025-02-08 23:21:31
+Servers\postgres\lastUsedDB<|||>1<|||>public
+Servers\postgres\RefusedCount<|||>3<|||>13
+Servers\Unnamed\SessionCreated<|||>1<|||>2025-04-13 16:07:35
+Servers\Unnamed\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed\WindowsAuth<|||>3<|||>0
+Servers\Unnamed\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed\User<|||>1<|||>root
+Servers\Unnamed\Password<|||>1<|||>8
+Servers\Unnamed\LoginPrompt<|||>3<|||>0
+Servers\Unnamed\Port<|||>1<|||>3306
+Servers\Unnamed\NetType<|||>3<|||>0
+Servers\Unnamed\Compressed<|||>3<|||>0
+Servers\Unnamed\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed\QueryTimeout<|||>3<|||>30
+Servers\Unnamed\KeepAlive<|||>3<|||>20
+Servers\Unnamed\FullTableStatus<|||>3<|||>1
+Servers\Unnamed\Databases<|||>1<|||>
+Servers\Unnamed\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed\Comment<|||>1<|||>
+Servers\Unnamed\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed\SSHtunnelActive<|||>3<|||>0
+Servers\Unnamed\SshExecutable<|||>1<|||>
+Servers\Unnamed\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed\SSHtunnelPassword<|||>1<|||>2
+Servers\Unnamed\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed\SSL_Active<|||>3<|||>0
+Servers\Unnamed\SSL_Key<|||>1<|||>
+Servers\Unnamed\SSL_Cert<|||>1<|||>
+Servers\Unnamed\SSL_CA<|||>1<|||>
+Servers\Unnamed\SSL_Cipher<|||>1<|||>
+Servers\Unnamed\SSL_Verification<|||>3<|||>2
+Servers\Unnamed\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed\LogFileDdl<|||>3<|||>0
+Servers\Unnamed\LogFileDml<|||>3<|||>0
+Servers\Unnamed\LogFilePath<|||>1<|||>C:\Users\Patrick\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Unnamed\RefusedCount<|||>3<|||>23
+Servers\Unnamed-1\SessionCreated<|||>1<|||>2025-02-08 22:04:22
+Servers\Unnamed-1\Host<|||>1<|||>127.0.0.1
+Servers\Unnamed-1\WindowsAuth<|||>3<|||>0
+Servers\Unnamed-1\CleartextPluginEnabled<|||>3<|||>0
+Servers\Unnamed-1\User<|||>1<|||>root
+Servers\Unnamed-1\Password<|||>1<|||>1
+Servers\Unnamed-1\LoginPrompt<|||>3<|||>0
+Servers\Unnamed-1\Port<|||>1<|||>3306
+Servers\Unnamed-1\NetType<|||>3<|||>0
+Servers\Unnamed-1\Compressed<|||>3<|||>0
+Servers\Unnamed-1\LocalTimeZone<|||>3<|||>0
+Servers\Unnamed-1\QueryTimeout<|||>3<|||>30
+Servers\Unnamed-1\KeepAlive<|||>3<|||>20
+Servers\Unnamed-1\FullTableStatus<|||>3<|||>1
+Servers\Unnamed-1\Databases<|||>1<|||>
+Servers\Unnamed-1\Library<|||>1<|||>libmariadb.dll
+Servers\Unnamed-1\Comment<|||>1<|||>
+Servers\Unnamed-1\StartupScriptFilename<|||>1<|||>
+Servers\Unnamed-1\TreeBackground<|||>3<|||>536870911
+Servers\Unnamed-1\SSHtunnelActive<|||>3<|||>0
+Servers\Unnamed-1\SshExecutable<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHost<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelHostPort<|||>3<|||>22
+Servers\Unnamed-1\SSHtunnelUser<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPassword<|||>1<|||>8
+Servers\Unnamed-1\SSHtunnelTimeout<|||>3<|||>4
+Servers\Unnamed-1\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Unnamed-1\SSHtunnelPort<|||>3<|||>3307
+Servers\Unnamed-1\SSL_Active<|||>3<|||>0
+Servers\Unnamed-1\SSL_Key<|||>1<|||>
+Servers\Unnamed-1\SSL_Cert<|||>1<|||>
+Servers\Unnamed-1\SSL_CA<|||>1<|||>
+Servers\Unnamed-1\SSL_Cipher<|||>1<|||>
+Servers\Unnamed-1\SSL_Verification<|||>3<|||>2
+Servers\Unnamed-1\IgnoreDatabasePattern<|||>1<|||>
+Servers\Unnamed-1\LogFileDdl<|||>3<|||>0
+Servers\Unnamed-1\LogFileDml<|||>3<|||>0
+Servers\Unnamed-1\LogFilePath<|||>1<|||>C:\Users\Patrick\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
